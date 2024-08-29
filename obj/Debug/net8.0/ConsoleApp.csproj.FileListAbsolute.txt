@@ -1,0 +1,17 @@
+C:\Users\Emmanuel\estudo-api\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\Emmanuel\estudo-api\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\Emmanuel\estudo-api\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\Emmanuel\estudo-api\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\Emmanuel\estudo-api\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Emmanuel\estudo-api\ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Emmanuel\estudo-api\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
